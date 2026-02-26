@@ -52,6 +52,8 @@ Classification: Feature request
 Log as enhancement request for product backlog.
 ```
 
+![Demo](demo.png)
+
 ## ⚙️ Setup
 
 **Prerequisites**
